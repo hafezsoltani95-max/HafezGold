@@ -2,8 +2,8 @@ from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 import requests
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-CHANNEL_ID = "@YourChannelUsername"
+BOT_TOKEN = "7287339925:AAFxyI-8-2nlYE4HAZ6JvgkK_aG-bhcG5qA"
+CHANNEL_ID = "@rezaee_jewellery"
 
 def get_gold_price():
     try:
